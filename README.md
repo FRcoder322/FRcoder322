@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **UniApp**
 
-- 🌱 I’m currently learning **Frameworks,Couses**
+- 🌱 I’m currently learning **Frameworks,DevOps
 
 - 📝 I regularly write articles on [Medium](Medium)
 
