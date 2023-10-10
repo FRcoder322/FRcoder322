@@ -1,3 +1,5 @@
+![logo](https://github.com/FRcoder322/FRcoder322/blob/main/sl_021920_28190_02.jpg)
+
 <h1 align="center">Hi 👋, I'm Florence Rotich</h1>
 <h3 align="center">A passionate Full stack developer from Kenya</h3>
 
