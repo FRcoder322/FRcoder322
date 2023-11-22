@@ -5,13 +5,13 @@
 
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on **UniApp**
+- 🔭 I’m currently working on **MMS_project**
 
 - 🌱 I’m currently learning **Frameworks,DevOps
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Vue,Flutter,GDP**
+- 💬 Ask me about **Vue,Flutter,laravel**
 
 - 📫 How to reach me **nenorotich3@gmail.com**
 
