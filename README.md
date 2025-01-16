@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **MMS_project**
 
-- 🌱 I’m currently learning **Frameworks,DevOps
+- 🌱 I’m currently learning **Python
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Vue,Flutter,laravel**
+- 💬 Ask me about **Python,Flutter,Firebase,SQL**
 
 - 📫 How to reach me **nenorotich3@gmail.com**
 
